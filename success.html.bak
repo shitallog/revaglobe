@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Grow India</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="shortcut icon" href="assets/img/fv.png" type="image/x-icon">
+    <link rel="icon" href="assets/img/fv.png" type="image/x-icon">
+    <link rel="stylesheet" href="assets/css/bootstrap.min.css">
+    <link rel="stylesheet" href="assets/css/animate.css">
+    <link rel="stylesheet" href="assets/css/newfont.css">
+    <link rel="stylesheet" href="assets/css/owl.carousel.css">
+    <link rel="stylesheet" href="assets/css/fontawesome-all.css">
+    <link rel="stylesheet" href="assets/css/swiper.css">
+    <link rel="stylesheet" href="assets/css/jquery.bxslider.min.css">
+    <link rel="stylesheet" href="assets/css/jquery.mCustomScrollbar.min.css">
+    <link rel="stylesheet" href="assets/css/odometer-theme-default.css">
+    <link rel="stylesheet" href="assets/css/flaticon.css">
+    <link rel="stylesheet" href="assets/css/style.css">
+	<link rel="stylesheet" href="assets/css/account-custom.css">
+</head>
+<body class="bg">
+    <div>
+        <section class="" style="background-size: cover;">
+            <div class="container" style="max-width:1340px;">
+                <div class="row">
+                    <div class="col-md-2 col-lg-3 col-xl-3"></div>
+                    <div class="col-md-8 col-lg-6 col-xl-6" style="margin-left:auto;margin-right:auto;">
+                        <form action="#" class="formbg p-5" enctype="multipart/form-data" method="post">
+                            <div class="form-group mt-5">
+                                <div class="col-12 text-center">
+                                    <img src="assets/img/app-landing/logo/logo.png" alt="" width="25%">
+                                    <!--  <h1 class="font-weight-bolder"><a class="navbar-brand" href="index.html"><span class="text-danger">LIFE</span>  LINE4U</a></h1> -->
+
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="col-sm-12 text-center">
+                                    <h1 class="text-white fadeInUp pb-4 account-text" data-wow-delay="0.3s">Registration Successfully !</h1>
+                                    <p class="text-white"></p>
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="col-md-2 mx-auto"></div>
+                                <div class="col-md-8 mx-auto">
+                                    <table class="table table-bordered text-center">
+                                        <thead>
+                                            <tr>
+                                                <th style="color:#fff;font-size:16px">User ID</th>
+                                                <th style="color:#fff;font-size:16px">Password</th>
+                                            </tr>
+                                        </thead>
+                                        <tbody>
+                                            <tr>
+                                                <td style="color:#fff;font-size:16px"></td>
+                                                <td style="color:#fff;font-size:16px"></td>
+                                            </tr>
+                                        </tbody>
+                                    </table>
+                                </div>
+                                <div class="col-md-2 mx-auto"></div>
+                            </div>
+                            <div class="row mt-5">
+                                <div class="col-sm-12 text-center">
+                                    <div class="banner-info-bg mx-auto text-center">
+                                        <a class="account-btn" href="index.html">Go to Home</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </form>
+                    </div>
+                    <div class="col-md-2 col-lg-3 col-xl-3"></div>
+                </div>
+            </div>
+        </section>
+    </div>
+    </div>
+   
+
+</body>
+</html>
+

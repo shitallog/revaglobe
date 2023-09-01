@@ -1,0 +1,103 @@
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Grow India</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="shortcut icon" href="assets/img/fv.png" type="image/x-icon">
+    <link rel="icon" href="assets/img/fv.png" type="image/x-icon">
+    <link rel="stylesheet" href="assets/css/bootstrap.min.css">
+    <link rel="stylesheet" href="assets/css/animate.css">
+    <link rel="stylesheet" href="assets/css/newfont.css">
+    <link rel="stylesheet" href="assets/css/owl.carousel.css">
+    <link rel="stylesheet" href="assets/css/fontawesome-all.css">
+    <link rel="stylesheet" href="assets/css/swiper.css">
+    <link rel="stylesheet" href="assets/css/jquery.bxslider.min.css">
+    <link rel="stylesheet" href="assets/css/jquery.mCustomScrollbar.min.css">
+    <link rel="stylesheet" href="assets/css/odometer-theme-default.css">
+    <link rel="stylesheet" href="assets/css/flaticon.css">
+    <link rel="stylesheet" href="assets/css/style.css">
+	<link rel="stylesheet" href="assets/css/account-custom.css">
+</head>
+<body class="bg">
+    <div>
+        <section class="" style="background-size: cover;">
+            <div class="container" style="max-width:1340px;">
+                <div class="row">
+                    <div class="col-md-2 col-lg-3 col-xl-3"></div>
+                    <div class="col-md-8 col-lg-6 col-xl-6" style="margin-left:auto;margin-right:auto;">
+                       <form action="" class="formbg p-5" enctype="multipart/form-data" method="post">
+
+                            <div class="form-group mt-5">
+                                <div class="col-12 text-center">
+                                    <img src="assets/img/app-landing/logo/logo.png" alt="" width="25%">
+
+                                    <!--  <h1 class="font-weight-bolder"><a class="navbar-brand" href="index.html"><span class="text-danger">LIFE</span>  LINE4U</a></h1> -->
+
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="col-md-12 text-center pb-2">
+                                    <a href="index.html"><span class="text-white txt font-weight-bolder"> Home |</span></a><a href="signup.html" class="reset-password txt text-white font-weight-bolder"> Register</a>
+                                </div>
+                                <div class="col-sm-12 text-center">
+                                    <h1 class="text-white fadeInUp pb-4 account-text" data-wow-delay="0.3s">Login</h1>
+                                    <p class="text-white"></p>
+                                </div>
+                            </div>
+                           <div class="row">
+                                <div class="col-md-2 mx-auto"></div>
+                                <div class="col-md-8 mx-auto">
+                                    <div class="form-group mb-lg">
+                                        <input class="form-control" id="sp_user" name="sp_user" placeholder="UserName" type="text" value="" />
+                                            <span class="sp_name" style="color:black;"></span>
+
+                                    </div>
+                                </div>
+                                <div class="col-md-2 mx-auto"></div>
+                            </div>
+                            <div class="row">
+                                <div class="col-md-2 mx-auto"></div>
+                                <div class="col-md-8 mx-auto">
+                                    <div class="form-group mb-lg">
+                                          <input class="form-control" id="sp_user" name="sp_user" placeholder="Password" type="password" value="" />
+                                    </div>
+                                </div>
+                                <div class="col-md-2 mx-auto"></div>
+                            </div>
+                            <div class="row">
+                                <div class="col-md-2 mx-auto"></div>
+                                <div class="col-md-8 mx-auto text-center">
+                                    <span style="color: #000;"><a href="forgetpassword.html" class="text-white txt1 font-weight-bolder"> Forgot Password |</a></span><a id="btnForgotPassword" href="/Home/signup" class="reset-password txt1 login-support font-weight-bolder" style="color: #fff;"> Create an account</a>
+                                </div>
+                                <div class="col-md-2 mx-auto"></div>
+                            </div>
+                            <div class="row mt-5">
+                                <div class="col-sm-12 text-center">
+                                    <div class="banner-info-bg mx-auto text-center">
+                                        <button type="submit" class="account-btn">Login</button>
+                                    </div>
+                                </div>
+                            </div>
+                  
+                    </div>
+                    <div class="col-md-2 col-lg-3 col-xl-3"></div>
+                </div>
+            </div>
+        </section>
+    </div>
+    </div>
+    <script src="assets/js/jquery.min.js"></script>
+    <script src="assets/js/bootstrap.min.js"></script>
+    <script src="assets/js/theme.plugins.js"></script>
+    <script src="assets/js/ajax-mail.js"></script>
+    <script src="assets/js/countdown.js"></script>
+    <script src="assets/js/main.js"></script>
+
+
+   
+
+</body>
+</html>

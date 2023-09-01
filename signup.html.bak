@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Grow India</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="shortcut icon" href="assets/img/fv.png" type="image/x-icon">
+    <link rel="icon" href="assets/img/fv.png" type="image/x-icon">
+    <link rel="stylesheet" href="assets/css/bootstrap.min.css">
+    <link rel="stylesheet" href="assets/css/animate.css">
+    <link rel="stylesheet" href="assets/css/newfont.css">
+    <link rel="stylesheet" href="assets/css/owl.carousel.css">
+    <link rel="stylesheet" href="assets/css/fontawesome-all.css">
+    <link rel="stylesheet" href="assets/css/swiper.css">
+    <link rel="stylesheet" href="assets/css/jquery.bxslider.min.css">
+    <link rel="stylesheet" href="assets/css/jquery.mCustomScrollbar.min.css">
+    <link rel="stylesheet" href="assets/css/odometer-theme-default.css">
+    <link rel="stylesheet" href="assets/css/flaticon.css">
+    <link rel="stylesheet" href="assets/css/style.css">
+	<link rel="stylesheet" href="assets/css/account-custom.css">
+</head>
+<body class="bg">
+    <div>
+        <div class="" id="featured-product">
+            <section class="">
+                <div class="container" style="max-width:1340px;">
+                    <div class="row">
+                        <div class="col-md-2 col-lg-3 col-xl-3"></div>
+                        <div class="col-md-8 col-lg-6 col-xl-6">
+                           <form action="" class="formbg p-5" enctype="multipart/form-data" method="post">
+                           
+                                <div class="form-group">
+                                    <div class="col-12 text-center pl-5">
+                                        <img src="assets/img/app-landing/logo/logo.png" alt="" width="25%">
+                                        <!-- <h1 class="font-weight-bolder"><a class="navbar-brand" href="index.html"><span class="text-danger">LIFE</span>  LINE4U</a></h1> -->
+
+                                    </div>
+                                </div>
+                                <div class="row">
+                                    <div class="col-md-12 text-center pb-2">
+                                        <a href="index.html"><span class="text-white txt font-weight-bolder"> Home |</span></a><a id="btnForgotPassword" href="signin.html" class="reset-password txt text-white font-weight-bolder"> Login</a>
+                                    </div>
+                                    <div class="col-sm-12 text-center">
+                                        <h1 class="text-white fadeInUp pb-2 account-text font-weight-bolder" data-wow-delay="0.3s">REGISTER</h1>
+                                        <p class="text-white pb-4 mt-3 mb-3 font-weight-bolder">You don't have an account please Register</p>
+                                    </div>
+                                </div>
+                               
+                                <div class="row">
+                                    <div class="col-lg-6">
+                    			 <div class="form-group">
+		                            <label class="account-label text-white">Sponser User ID</label>
+		                            <input type="text" placeholder="Enter Sponser User ID" class="form-control" />
+		                        </div>
+                    		</div>
+                    		<div class="col-lg-6">
+                    			 <div class="form-group">
+		                            <label class="account-label text-white">Sponser Name</label>
+		                            <input type="text" placeholder="Enter Sponser Name" class="form-control" />
+		                        </div>
+                    		</div>
+                                </div>
+                                <div class="row">
+                                    <div class="col-lg-6">
+                    			 <div class="form-group">
+		                            <label class="account-label text-white">Your Name</label>
+		                            <input type="text" placeholder="Enter Your Name" class="form-control" />
+		                        </div>
+                    		</div>
+                    		<div class="col-lg-6">
+                    			 <div class="form-group">
+		                            <label class="account-label text-white">User Name</label>
+		                            <input type="text" placeholder="Enter User Name" class="form-control" />
+		                        </div>
+                    		</div>
+                                </div>
+								
+				            <div class="row">
+                                    <div class="col-lg-6">
+                    			 <div class="form-group">
+		                            <label class="account-label text-white">Email ID</label>
+		                            <input type="text" placeholder="Enter Email ID" class="form-control" />
+		                        </div>
+                    		</div>
+                    		<div class="col-lg-6">
+                    			<div class="form-group mb-lg">
+                    				<label class="account-label text-white">Select Place</label>
+			                        <select class="form-control"  id="Place" name="Place"><option value="">Select Place</option>
+			                        <option selected="selected">Select Country</option>
+			                        <option>India</option>
+			                        <option>India</option>
+			                        <option>India</option>
+			                        <option>India</option>
+			                        <option>India</option>
+			                        </select>
+		                      </div>
+                    		</div>
+                                </div>
+                               <div class="row">
+                    		<div class="col-lg-6">
+                    			 <div class="form-group">
+		                            <label class="account-label text-white">Mobile No.</label>
+		                            <input type="text" placeholder="Enter Mobile No." class="form-control" />
+		                        </div>
+                    		</div>
+                    		<div class="col-lg-6">
+                    			 <div class="form-group">
+		                            <label class="account-label text-white">Select Place</label>
+		                            <select class="form-control"  id="Place" name="Place">
+		                            <option value="">Select Place</option>
+			                        <option selected="selected">Select Place</option>
+			                        <option value="L">Left</option>
+			                        <option value="R">Right</option>
+			                        </select>
+		                        </div>
+                    		</div>
+                    	</div>
+
+                               <div class="row">
+                    		<div class="col-lg-6">
+                    			 <div class="form-group">
+		                            <label class="account-label text-white">Password</label>
+		                            <input type="password" placeholder="Enter Password" class="form-control" />
+		                        </div>
+                    		</div>
+                    		<div class="col-lg-6">
+                    			 <div class="form-group">
+		                            <label class="account-label text-white">Re-Type Password</label>
+		                            <input type="password" placeholder="Enter Re-Type Password" class="form-control" />
+		                        </div>
+                    		</div>
+                    	</div>                                        
+                                
+                                <div class="row">
+                                    
+                                    <div class="col-md-6">
+                                        <span class="text-white font-weight-bolder"> Already have account |</span><a id="btnForgotPassword" href="signin.html" class="reset-password login-support font-weight-bolder" style="color: #fff;"> Login</a>
+                                    </div>
+                                </div>
+                                <div class="row">
+                                    <div class="col-sm-12 text-center">
+                                        <div class="mx-auto text-center">
+                                            <button type="submit" class="account-btn">Register</button>
+                                        </div>
+                                    </div>
+                                </div>
+                         </form>
+                        </div>
+                        <div class="col-md-2 col-lg-3 col-xl-3"></div>
+                    </div>
+                </div>
+            </section>
+        </div>
+    </div>
+
+
+
+
+</body>
+</html>
